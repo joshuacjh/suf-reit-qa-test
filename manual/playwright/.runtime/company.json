@@ -1,0 +1,14 @@
+{
+  "companies": [
+    {
+      "companyName": "Sunway the Company",
+      "email": "sunway.the@gmail.com",
+      "registered": true
+    },
+    {
+      "companyName": "Sunway venture than Sdn Bhd",
+      "email": "sunway.venture.than@gmail.com",
+      "registered": false
+    }
+  ]
+}
